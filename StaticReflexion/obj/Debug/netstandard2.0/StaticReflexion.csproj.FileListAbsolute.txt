@@ -1,0 +1,9 @@
+S:\Projets Visual studio\Reflexion\StaticReflexion\bin\Debug\netstandard2.0\StaticReflexion.deps.json
+S:\Projets Visual studio\Reflexion\StaticReflexion\bin\Debug\netstandard2.0\StaticReflexion.dll
+S:\Projets Visual studio\Reflexion\StaticReflexion\bin\Debug\netstandard2.0\StaticReflexion.pdb
+S:\Projets Visual studio\Reflexion\StaticReflexion\obj\Debug\netstandard2.0\StaticReflexion.csprojAssemblyReference.cache
+S:\Projets Visual studio\Reflexion\StaticReflexion\obj\Debug\netstandard2.0\StaticReflexion.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\Reflexion\StaticReflexion\obj\Debug\netstandard2.0\StaticReflexion.AssemblyInfoInputs.cache
+S:\Projets Visual studio\Reflexion\StaticReflexion\obj\Debug\netstandard2.0\StaticReflexion.AssemblyInfo.cs
+S:\Projets Visual studio\Reflexion\StaticReflexion\obj\Debug\netstandard2.0\StaticReflexion.dll
+S:\Projets Visual studio\Reflexion\StaticReflexion\obj\Debug\netstandard2.0\StaticReflexion.pdb
